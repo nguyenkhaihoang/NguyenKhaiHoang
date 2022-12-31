@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Hoang Nguyen<br>👀 I’m interested in Front-end and Back-end Development<br>🍓 I'm working in Fintech industry<br>🌱 I’m currently learning MERN stack, microservices architecture and improving my DSA skills on LeetCode<br>📫 My email: hoangnguyen.ie12@gmail.com
+👋 Hi, I’m Hoang Nguyen<br>👀 I’m interested in Front-end and Back-end Development<br>🍓 I'm working in Fintech industry<br>🌱 I’m currently learning NextJS<br>📫 My email: hoangnguyen.ie12@gmail.com
 
 
 # 💻 Tech Stack:
