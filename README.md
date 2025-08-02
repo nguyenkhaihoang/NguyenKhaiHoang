@@ -13,7 +13,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nguyenkhaihoang&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenkhaihoang&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nguyenkhaihoang&theme=flat&no-frame=false&no-bg=false&margin-w=4)
