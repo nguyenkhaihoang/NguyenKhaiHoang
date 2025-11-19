@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Hoang Nguyen<br>🔭 I’m currently working on the MERN stack<br>👯 I’m looking to collaborate on Web Development<br>🌱 I’m currently learning Angular<br>⚡ My email: hoangnguyen.ie12@gmail.com
+👋 Hi, I’m Hoang Nguyen<br>🔭 I’m currently working on the MERN stack<br>👯 I’m looking to collaborate on Web Development<br>🌱 I’m currently learning Angular<br>⚡ My email: khaihoang.nguyen@outlook.com
 
 
 # 💻 Tech Stack:
